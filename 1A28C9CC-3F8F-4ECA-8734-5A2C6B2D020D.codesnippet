@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>_mslnt</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>            // swiftlint:disable &lt;#rule_name#&gt;
+
+            // swiftlint:enable &lt;#rule_name#&gt;</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>1A28C9CC-3F8F-4ECA-8734-5A2C6B2D020D</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>Wrapper for enabling and disabling SwiftLint</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>SwiftLint Enable Disable Block</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
+</dict>
+</plist>
